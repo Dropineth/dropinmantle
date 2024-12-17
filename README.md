@@ -1,4 +1,4 @@
-Here's an updated product design concept for **Dropin**'s participation in the **Mantle Hackathon**, emphasizing its integration with Mantle’s ecosystem and the features you want to incorporate, such as decentralized green lotteries, crowdfunding, NFTs, and DAO governance.
+
 
 ### **Dropin on Mantle: Decentralized Green Lottery + Eco-Incentive Platform**
 
@@ -73,8 +73,6 @@ Dropin can utilize Mantle's low transaction fees, high scalability, and modular 
 Dropin, integrated with **Mantle’s ecosystem**, provides an efficient, scalable, and community-driven platform for eco-sustainability. By leveraging Mantle’s low transaction costs, high scalability, and cross-chain compatibility, Dropin can democratize participation in green initiatives while creating a gamified, reward-driven experience. The platform aligns perfectly with Mantle’s strengths, making it a strong candidate for the **Mantle Hackathon** and paving the way for a decentralized, green future.
 
 
-
-Here is a proposed **GitHub documentation** outline for **Dropin’s participation** in the **Mantle Hackathon**. This documentation will serve as a technical guide and implementation overview for the development and deployment of Dropin’s platform integrated with Mantle's ecosystem.
 
 ---
 
