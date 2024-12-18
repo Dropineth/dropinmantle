@@ -267,6 +267,13 @@ We welcome contributions from the open-source community! To contribute, please f
 3. Make your changes.
 4. Submit a pull request with a clear description of your changes.
 
+## **team**
+### **Lee** 
+https://github.com/Dropineth/ 10+ years of experience in TMT consumer and ESG investment research. Focused on sustainable killer applications in Web2 and Web3. Former member of CMRC's science and technology enterprise marketing and business growth research group.
+
+### **Junhua**  
+https://github.com/XieJunhua/ Proficient in Solidity, Python, and Java. 2+ years developing Ethereum smart contracts. Experienced in blockchain technology, including Ethereum, Solana, and Sui. Strong background in data and backend development.
+
 
 ---
 
